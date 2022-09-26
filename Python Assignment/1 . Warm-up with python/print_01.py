@@ -1,0 +1,13 @@
+x=35
+y=True
+z="Mysirg"
+p=5.46
+q=3+4j
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(p))
+print(type(q))
+r=3+2j
+c=q+r
+print(c)
